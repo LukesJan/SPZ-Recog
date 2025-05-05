@@ -30,3 +30,5 @@ Software je napsaný v Pythonu a zajišťuje logiku rozpoznání SPZ. Používá
 - `serial.tools.list_ports`
 
 Druhá část systému je napsaná v jazyce Arduino, kde je jednoduchý skript pro ovládání LED diody v pravidelných intervalech.
+# Nešla mi nahrát aplikace na github, prootže byla moc velká mám ji u sebe.
+# Jan Lukeš C3C
