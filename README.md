@@ -34,5 +34,6 @@ Druhá část systému je napsaná v jazyce Arduino, kde je jednoduchý skript p
 1. Otevřete command prompt
 2. Jdete do slozky kde máte stazeny projket (cd vase\cesta\ksouboru)
 3. Zadejte tento prikaz python -m PyInstaller --onefile --windowed --add-data "spravne_spz.json;." --add-data "spz_history.json;." --add-data "obrazky;obrazky" spz_rec.py
-4. Ve stejne slozce se vam vytvori slozka dist a v ni bude .exe soubor na, který kliknete.  
+4. Ve stejne slozce se vam vytvori slozka dist a v ni bude .exe soubor na, který kliknete.
+5. Kdyby nefungoval repozitar tady je odkaz na backup https://github.com/LukesJan/SPZ-recBakcup
 ## Jan Lukeš C3C
